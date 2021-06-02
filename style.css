@@ -1,0 +1,15 @@
+body{
+    padding-top: 50px;
+    text-align: center;
+    background-color:#fcaebf;
+    font-family: serif;
+    color: rgb(211, 45, 16);
+    font-family: 'Lobster', cursive;
+}
+.container{
+    padding-top: 100px;
+    text-align: center;
+}
+footer{
+    padding-top: 100px;
+}
